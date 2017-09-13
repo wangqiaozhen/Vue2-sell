@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2017-09-06 10:31:40
+ * @version $Id$
+ */
+
+body, html{
+	line-height: 1;
+	font-weight: 200;
+	font-family: 'PingFang SC','STHitiSC';
+}

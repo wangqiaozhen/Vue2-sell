@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2017-09-05 16:02:26
+ * @version $Id$
+ */
+
+
+
+.tab{
+	display: flex;
+	width: 100%;
+	height: 40px;	
+	line-height: 40px;
+	font-size: 14px;
+}
+.tab-item{
+	flex: 1;
+	text-align: center;
+}
